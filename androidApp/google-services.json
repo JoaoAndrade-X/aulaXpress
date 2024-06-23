@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690389466051",
+    "project_id": "aulaxpress-75c93",
+    "storage_bucket": "aulaxpress-75c93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690389466051:android:48e6de212446e18602db76",
+        "android_client_info": {
+          "package_name": "com.joaoandrade.aulaxpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6NTqUNzdQgl2533ZgMAjADNVv1Hg9a1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
